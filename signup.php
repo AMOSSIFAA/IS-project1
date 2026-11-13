@@ -16,7 +16,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 ?>
 <!DOCTYPE html>
 <html>
-<head><title>Sign Up</title></head>
+<head><title>Signing up page</title></head>
 <body>
 <h2>Sign Up</h2>
 <p><?php echo $message; ?></p>
